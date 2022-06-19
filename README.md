@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aman-Virani
 - 👀 I’m interested in Front-End Development & Python Programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on PYthon Projects
+- 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me viranipaman@gmail.com
 
 <!---
